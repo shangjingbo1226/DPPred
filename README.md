@@ -4,7 +4,7 @@
 
 Please cite the following two papers if you are using our tools. Thanks!
 
-*   Jingbo Shang, Meng Jiang, Wenzhu Tong, Jinfeng Xiao, Jian Peng, Jiawei Han. "[DPPred: An Effective Prediction Framework with Concise Discriminative Patterns]()", accepted by IEEE Transactions on Knowledge and Data Engineering, Sept. 2017. 
+*   Jingbo Shang, Meng Jiang, Wenzhu Tong, Jinfeng Xiao, Jian Peng, Jiawei Han. "[DPPred: An Effective Prediction Framework with Concise Discriminative Patterns](https://arxiv.org/abs/1610.09778)", accepted by IEEE Transactions on Knowledge and Data Engineering, Sept. 2017. 
 
 *   Jingbo Shang, Wenzhu Tong, Jian Peng, and Jiawei Han, "[DPClass: An Effective but Concise Discriminative Patterns-Based Classification Framework](http://hanj.cs.illinois.edu/pdf/sdm16_jshang-dpclass.pdf)", in Proc of 2016 SIAM Int. Conf. on Data Mining (SDM'16), Miami, FL, May 2016. [[code](https://github.com/shangjingbo1226/DPClass)] [[slides](http://shang7.web.engr.illinois.edu/slides/SDM16-DPClass.pdf)]
 
@@ -19,7 +19,7 @@ Comparing to [DPClass](https://github.com/shangjingbo1226/DPClass), DPPred is no
 * Regression \& Multi-Class Classification.
 * Local Discriminative Pattern Discovery after Clustering.
 
-Please find more details in [this paper]().
+Please find more details in [this paper](https://arxiv.org/abs/1610.09778).
 
 ## Requirements
 

@@ -1,0 +1,23 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                   R2014b (8.4.0.150421) 64-bit (glnxa64)
+                             September 15, 2014
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+
+	This is a Classroom License for instructional use only.
+	Research and commercial use is prohibited.
+
+{Error using <=
+Matrix dimensions must agree.
+
+Error in cvglmnet (line 360)
+CVerr.lambda_1se = max(options.lambda(cvm<=semin));
+
+Error in predict (line 55)
+	fit = cvglmnet(train_x, train_y, 'gaussian', options);
+} 
